@@ -1,0 +1,1 @@
+web: gunicorn dacao.wsgi --log-file -
