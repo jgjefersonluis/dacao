@@ -26,6 +26,7 @@ INSTALLED_APPS = [
     'core',
     'crispy_forms',
     'bootstrap4',
+    'clientes',
 
 ]
 
